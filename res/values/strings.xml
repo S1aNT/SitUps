@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">SitUps</string>
+    <string name="btn_start">Start service</string>
+    <string name="btn_stop">Stop service</string>
 </resources>
