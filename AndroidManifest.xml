@@ -8,6 +8,8 @@
     <application
         android:label="@string/app_name"
         android:icon="@drawable/ic_launcher">
+        <service android:name=".AccLoggerService" android:enabled="true" />
+
         <activity
             android:name="MainActivity"
             android:label="@string/app_name">
